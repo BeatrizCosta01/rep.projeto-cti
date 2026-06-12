@@ -17,6 +17,8 @@ from services.actions import obter_actions
 from models.consolidacao import consolidar_card
 from models.movimentacoes import extrair_movimentacoes
 
+# import criação do dashboard
+from dados_dashboard import main as gerar_dashboard
 
 
 def salvar_json(nome_arquivo, dados):
@@ -213,8 +215,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-    #from dados_dashboard import main as gerar_dashboard
-    #gerar_dashboard()
-    #print("- data/cards.json")
-    #print("- data/actions_bruto.json")
-    #print("- data/movimentacoes.json")
+    
+    gerar_dashboard()
+    print("- data/cards.json")
+    print("- data/actions_bruto.json")
+    print("- data/movimentacoes.json")
