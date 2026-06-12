@@ -1,8 +1,11 @@
 import json
 import os
 
+
+# import API_KEY do config.py
 from config import API_KEY
 
+# importa funções de service para obter dados do Trello
 from services.auth import obter_token
 from services.boards import obter_boards
 from services.lists import obter_listas
@@ -10,8 +13,10 @@ from services.members import obter_membros
 from services.cards import obter_cards
 from services.actions import obter_actions
 
+# import models
 from models.consolidacao import consolidar_card
 from models.movimentacoes import extrair_movimentacoes
+
 
 
 def salvar_json(nome_arquivo, dados):
@@ -207,3 +212,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    #from dados_dashboard import main as gerar_dashboard
+    #gerar_dashboard()
+    #print("- data/cards.json")
+    #print("- data/actions_bruto.json")
+    #print("- data/movimentacoes.json")

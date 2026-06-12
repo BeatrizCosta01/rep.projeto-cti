@@ -1,0 +1,315 @@
+{
+    "volumetria": {
+        "quantidade_projetos": 3,
+        "total_cards": 31,
+        "projetos": [
+            {
+                "projeto": "Meu quadro",
+                "total_cards": 4,
+                "listas": {
+                    "Em andamento": 2,
+                    "Concluído": 2
+                }
+            },
+            {
+                "projeto": "PCP-FUP",
+                "total_cards": 17,
+                "listas": {
+                    "Concluído 🎉": 9,
+                    "A Fazer": 6,
+                    "Em andamento": 2
+                }
+            },
+            {
+                "projeto": "Projeto CTI",
+                "total_cards": 10,
+                "listas": {
+                    "A fazer": 3,
+                    "Iniciado": 1,
+                    "Em andamento": 2,
+                    "Concluído": 4
+                }
+            }
+        ]
+    },
+    "atividade": [
+        {
+            "projeto": "PCP-FUP",
+            "total_movimentacoes": 30,
+            "ultimas_movimentacoes": [
+                {
+                    "card": "FUP HERPLAST",
+                    "origem": "A Fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-06-11T13:51:36.369Z"
+                },
+                {
+                    "card": "Fup SYMRISE",
+                    "origem": "Em andamento",
+                    "destino": "A Fazer",
+                    "data": "2026-06-11T13:51:33.252Z"
+                },
+                {
+                    "card": "Fup SYMRISE",
+                    "origem": "A Fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-06-11T13:51:26.854Z"
+                },
+                {
+                    "card": "FUP Barentz",
+                    "origem": "Em andamento",
+                    "destino": "Concluído 🎉",
+                    "data": "2026-06-10T13:37:33.344Z"
+                },
+                {
+                    "card": "FUP Barentz",
+                    "origem": "A Fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-06-10T13:21:48.849Z"
+                },
+                {
+                    "card": "Fup FRASCOMAR",
+                    "origem": "Em andamento",
+                    "destino": "Concluído 🎉",
+                    "data": "2026-06-10T13:21:34.092Z"
+                },
+                {
+                    "card": "Fup FRASCOMAR",
+                    "origem": "A Fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-06-10T13:03:59.330Z"
+                },
+                {
+                    "card": "FUP GRIF",
+                    "origem": "Em andamento",
+                    "destino": "Concluído 🎉",
+                    "data": "2026-06-10T13:03:56.140Z"
+                },
+                {
+                    "card": "FUP GRIF",
+                    "origem": "A Fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-06-10T12:59:23.678Z"
+                },
+                {
+                    "card": "Fup SYMRISE",
+                    "origem": "Em andamento",
+                    "destino": "A Fazer",
+                    "data": "2026-06-10T12:59:20.912Z"
+                }
+            ]
+        },
+        {
+            "projeto": "Projeto CTI",
+            "total_movimentacoes": 12,
+            "ultimas_movimentacoes": [
+                {
+                    "card": "Mock De Dados",
+                    "origem": "Em andamento",
+                    "destino": "Concluído",
+                    "data": "2026-05-08T23:26:38.762Z"
+                },
+                {
+                    "card": "Mock De Dados",
+                    "origem": "Iniciado",
+                    "destino": "Em andamento",
+                    "data": "2026-05-08T22:51:25.968Z"
+                },
+                {
+                    "card": "Criação do Repositório GitHub",
+                    "origem": "A fazer",
+                    "destino": "Concluído",
+                    "data": "2026-05-08T01:00:58.981Z"
+                },
+                {
+                    "card": "Brainstorm do projeto",
+                    "origem": "Iniciado",
+                    "destino": "Concluído",
+                    "data": "2026-05-08T00:33:31.036Z"
+                },
+                {
+                    "card": "Brainstorm do projeto",
+                    "origem": "Em andamento",
+                    "destino": "Iniciado",
+                    "data": "2026-05-08T00:25:24.511Z"
+                },
+                {
+                    "card": "Brainstorm do projeto",
+                    "origem": "Iniciado",
+                    "destino": "Em andamento",
+                    "data": "2026-05-08T00:25:19.731Z"
+                },
+                {
+                    "card": "Brainstorm do projeto",
+                    "origem": "A fazer",
+                    "destino": "Iniciado",
+                    "data": "2026-05-08T00:17:21.972Z"
+                },
+                {
+                    "card": "Discovery Api Trello",
+                    "origem": "A fazer",
+                    "destino": "Concluído",
+                    "data": "2026-05-08T00:17:19.153Z"
+                },
+                {
+                    "card": "Data Prep",
+                    "origem": "A fazer",
+                    "destino": "Iniciado",
+                    "data": "2026-05-08T00:17:13.739Z"
+                },
+                {
+                    "card": "Criação de backlog",
+                    "origem": "A fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-05-08T00:17:10.087Z"
+                }
+            ]
+        },
+        {
+            "projeto": "Meu quadro",
+            "total_movimentacoes": 4,
+            "ultimas_movimentacoes": [
+                {
+                    "card": "teste de funcionalidades",
+                    "origem": "A fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-06-12T22:09:18.097Z"
+                },
+                {
+                    "card": "pesquisar projetos ã fazer",
+                    "origem": "A fazer",
+                    "destino": "Concluído",
+                    "data": "2026-06-12T22:08:22.678Z"
+                },
+                {
+                    "card": "estudar  e revisar SQL",
+                    "origem": "A fazer",
+                    "destino": "Concluído",
+                    "data": "2026-06-12T22:08:19.149Z"
+                },
+                {
+                    "card": "criação de POC",
+                    "origem": "A fazer",
+                    "destino": "Em andamento",
+                    "data": "2026-06-12T22:08:16.777Z"
+                }
+            ]
+        }
+    ],
+    "saude_operacional": [
+        {
+            "projeto": "Meu quadro",
+            "score_saude": 60.0,
+            "cards_total": 4,
+            "sem_responsavel": 4,
+            "vencidos": 0,
+            "estagnados": 0
+        },
+        {
+            "projeto": "PCP-FUP",
+            "score_saude": 60.0,
+            "cards_total": 17,
+            "sem_responsavel": 17,
+            "vencidos": 0,
+            "estagnados": 0
+        },
+        {
+            "projeto": "Projeto CTI",
+            "score_saude": 57.0,
+            "cards_total": 10,
+            "sem_responsavel": 4,
+            "vencidos": 0,
+            "estagnados": 9
+        }
+    ],
+    "ranking_projetos": [
+        {
+            "projeto": "PCP-FUP",
+            "movimentacoes": 30,
+            "percentual_atividade": 100.0,
+            "status": "Alta",
+            "ranking": 1
+        },
+        {
+            "projeto": "Projeto CTI",
+            "movimentacoes": 12,
+            "percentual_atividade": 40.0,
+            "status": "Baixa",
+            "ranking": 2
+        },
+        {
+            "projeto": "Meu quadro",
+            "movimentacoes": 4,
+            "percentual_atividade": 13.33,
+            "status": "Baixa",
+            "ranking": 3
+        }
+    ],
+    "velocidade_projetos": [
+        {
+            "projeto": "Projeto CTI",
+            "cards": 6,
+            "movimentacoes": 12,
+            "dias_projeto": 1,
+            "primeira_movimentacao": "2026-05-07T23:10:55.075000+00:00",
+            "ultima_movimentacao": "2026-05-08T23:26:38.762000+00:00",
+            "dias_sem_movimento": 34,
+            "movimentacoes_por_dia": 12.0,
+            "tempo_medio_card_dias": 0.01,
+            "tempo_medio_movimentacao_dias": 0.01,
+            "menor_tempo_card": 0.0,
+            "maior_tempo_card": 0.05,
+            "indice_velocidade": 100
+        },
+        {
+            "projeto": "Meu quadro",
+            "cards": 4,
+            "movimentacoes": 4,
+            "dias_projeto": 0,
+            "primeira_movimentacao": "2026-06-12T22:08:16.777000+00:00",
+            "ultima_movimentacao": "2026-06-12T22:09:18.097000+00:00",
+            "dias_sem_movimento": 0,
+            "movimentacoes_por_dia": 4.0,
+            "tempo_medio_card_dias": 0.0,
+            "tempo_medio_movimentacao_dias": 0,
+            "menor_tempo_card": 0.0,
+            "maior_tempo_card": 0.0,
+            "indice_velocidade": 40.0
+        },
+        {
+            "projeto": "PCP-FUP",
+            "cards": 12,
+            "movimentacoes": 30,
+            "dias_projeto": 21,
+            "primeira_movimentacao": "2026-05-21T12:28:10.188000+00:00",
+            "ultima_movimentacao": "2026-06-11T13:51:36.369000+00:00",
+            "dias_sem_movimento": 1,
+            "movimentacoes_por_dia": 1.43,
+            "tempo_medio_card_dias": 1.76,
+            "tempo_medio_movimentacao_dias": 1.17,
+            "menor_tempo_card": 0.0,
+            "maior_tempo_card": 18.99,
+            "indice_velocidade": 14.3
+        }
+    ],
+    "maturidade_projetos": [
+        {
+            "projeto": "Meu quadro",
+            "cards": 4,
+            "maturidade": 80.0,
+            "status": "Maduro"
+        },
+        {
+            "projeto": "Projeto CTI",
+            "cards": 10,
+            "maturidade": 72.0,
+            "status": "Em Evolução"
+        },
+        {
+            "projeto": "PCP-FUP",
+            "cards": 17,
+            "maturidade": 67.06,
+            "status": "Em Evolução"
+        }
+    ]
+}

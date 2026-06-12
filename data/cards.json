@@ -1,0 +1,520 @@
+[
+    {
+        "projeto": "Meu quadro",
+        "card": "criação de POC",
+        "descricao": "",
+        "lista": "Em andamento",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-12T22:09:10.519Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/Eho9YDFd/3-cria%C3%A7%C3%A3o-de-poc"
+    },
+    {
+        "projeto": "Meu quadro",
+        "card": "teste de funcionalidades",
+        "descricao": "",
+        "lista": "Em andamento",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-12T22:09:18.079Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/8EYTpF1R/4-teste-de-funcionalidades"
+    },
+    {
+        "projeto": "Meu quadro",
+        "card": "estudar  e revisar SQL",
+        "descricao": "",
+        "lista": "Concluído",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-12T22:08:19.228Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/Fm6XmfGH/2-estudar-e-revisar-sql"
+    },
+    {
+        "projeto": "Meu quadro",
+        "card": "pesquisar projetos ã fazer",
+        "descricao": "",
+        "lista": "Concluído",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-12T22:08:22.666Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/HXn1sDTH/1-pesquisar-projetos-%C3%A3-fazer"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP Barentz",
+        "descricao": "Email fornecedor:  [desiree.barreto@barentz.com](mailto:desiree.barreto@barentz.com \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-10T13:37:33.436Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/S8fXkvDz/38-fup-barentz"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup FRASCOMAR",
+        "descricao": "Email fornecedor: [nina.barbosa@frascomar.com.br](mailto:nina.barbosa@frascomar.com.br \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-10T13:21:34.168Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/3KXDwnKJ/25-fup-frascomar"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP GRIF",
+        "descricao": "Email fornecedor: [julyanna.farro@grifrotulos.com.br](mailto:julyanna.farro@grifrotulos.com.br \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-10T13:03:56.277Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/9JBjkPhx/32-fup-grif"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup Hallstar",
+        "descricao": "Email fornecedor: [bruna.eloisa@hallstar.com](mailto:bruna.eloisa@hallstar.com \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-10T12:19:33.114Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/vzhnWzsQ/28-fup-hallstar"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup RJR",
+        "descricao": "Email fornecedor: [alan.montenegro@rjr.com.br](mailto:alan.montenegro@rjr.com.br \"‌\")      [artur.zaidan@rjr.com.br](mailto:artur.zaidan@rjr.com.br \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-10T11:49:47.988Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/MneGWRw8/26-fup-rjr"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup MASTER PUMPS",
+        "descricao": "Email fornecedor: [andrea@masterpumps.com.br](mailto:andrea@masterpumps.com.br \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T13:56:34.403Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/YSlzQ0Z4/30-fup-master-pumps"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup INOLEX",
+        "descricao": "Email fornecedor: [cmissae@inolex.com](mailto:cmissae@inolex.com \"‌\")   [rmarques@inolex.com](mailto:rmarques@inolex.com \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T13:36:14.249Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/jJMWRX3E/23-fup-inolex"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup INNOVASELL",
+        "descricao": "Email fornecedor: [andreia.maia@innovasell.com.br](mailto:andreia.maia@innovasell.com.br \"‌\")",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T13:12:52.291Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/j8qVps1U/22-fup-innovasell"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup SURFACE SOLUTIONS BRASIL LTDA",
+        "descricao": "",
+        "lista": "Concluído 🎉",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T13:12:31.968Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/E8AonQgp/21-fup-surface-solutions-brasil-ltda"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup SYMRISE",
+        "descricao": "Email fornecedor: [larissa.castro@symrise.com](mailto:larissa.castro@symrise.com \"‌\")   [edenilce.quintino-ferraz@symrise.com](mailto:edenilce.quintino-ferraz@symrise.com \"‌\")",
+        "lista": "A Fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-11T13:51:33.235Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/CkWeiR9e/29-fup-symrise"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "Fup CYKLOP",
+        "descricao": "Email fornecedor: [marcos.silva@cyklop.com.br](mailto:marcos.silva@cyklop.com.br \"‌\")",
+        "lista": "A Fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T13:58:08.555Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/8jW4hlt6/31-fup-cyklop"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP LANDHS",
+        "descricao": "Email fornecedor:  [felipe@landhs.com.br](mailto:felipe@landhs.com.br \"‌\")",
+        "lista": "A Fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T14:03:34.304Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/7krKWheM/35-fup-landhs"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP JD ROYALE",
+        "descricao": "Email fornecedor: [vendas@royalefragrancias.com.br](mailto:vendas@royalefragrancias.com.br \"‌\")",
+        "lista": "A Fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T14:02:13.089Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/oxhSrNKV/34-fup-jd-royale"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP SANGUARAGI ( COLETA )",
+        "descricao": "Email fornecedor:  [silicagel@saguaragi.com.br](mailto:silicagel@saguaragi.com.br \"‌\")",
+        "lista": "A Fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T14:06:56.031Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/rt4PrhSt/36-fup-sanguaragi-coleta"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP VOGLER",
+        "descricao": "Email fornecedor:  [thais.monteiro@azelis.com](mailto:thais.monteiro@azelis.com \"‌\")",
+        "lista": "A Fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-09T14:06:58.330Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/T9MulFqD/37-fup-vogler"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP",
+        "descricao": "",
+        "lista": "Em andamento",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-10T13:37:51.496Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/Wut3ufI0/20-fup"
+    },
+    {
+        "projeto": "PCP-FUP",
+        "card": "FUP HERPLAST",
+        "descricao": "Email fornecedor: [roseli@grossplast.com.br](mailto:roseli@grossplast.com.br \"‌\")",
+        "lista": "Em andamento",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-11T13:51:36.358Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/9FkxVAvD/33-fup-herplast"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Data Viz - Visão Executiva",
+        "descricao": "",
+        "lista": "A fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-05-08T21:43:52.550Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b37c6e8456e17504942",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Médio",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b37c6e8456e17504942",
+                "color": "yellow_dark",
+                "uses": 4
+            }
+        ],
+        "url": "https://trello.com/c/2w5VMBZG/1-data-viz-vis%C3%A3o-executiva"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Desenvolvimento Painel",
+        "descricao": "",
+        "lista": "A fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-05-08T21:40:31.321Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b37c6e8456e17504942",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Médio",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b37c6e8456e17504942",
+                "color": "yellow_dark",
+                "uses": 4
+            }
+        ],
+        "url": "https://trello.com/c/0ZGeI3fq/7-desenvolvimento-painel"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Brainstorm dashboard",
+        "descricao": "",
+        "lista": "A fazer",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-05-08T00:32:46.087Z",
+        "prazo": "2026-05-19T01:30:00.000Z",
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b37c6e8456e17504942",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Médio",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b37c6e8456e17504942",
+                "color": "yellow_dark",
+                "uses": 4
+            }
+        ],
+        "url": "https://trello.com/c/BHjcNkS8/9-brainstorm-dashboard"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Data Prep",
+        "descricao": "",
+        "lista": "Iniciado",
+        "responsaveis": [],
+        "qtd_responsaveis": 0,
+        "ultima_atividade": "2026-06-10T00:45:34.904Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b6c26cb3fcd3fe57487",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Alta",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b6c26cb3fcd3fe57487",
+                "color": "red",
+                "uses": 5
+            },
+            {
+                "id": "6a28b3ae6d3fe8b0a6821fd3",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Fortnet",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/6a28b3ae6d3fe8b0a6821fd3",
+                "color": "sky",
+                "uses": 1
+            }
+        ],
+        "url": "https://trello.com/c/r7KfTzYt/2-data-prep"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Desenvolvimento Trello padrao CTI",
+        "descricao": "Desenvolvendo o Trello no padrão CTI, afim de entender a estrutura da extracao e o relacionamento de cards",
+        "lista": "Em andamento",
+        "responsaveis": [
+            "BARBARA DOS ANJOS"
+        ],
+        "qtd_responsaveis": 1,
+        "ultima_atividade": "2026-05-08T00:24:39.265Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b6c26cb3fcd3fe57487",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Alta",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b6c26cb3fcd3fe57487",
+                "color": "red",
+                "uses": 5
+            }
+        ],
+        "url": "https://trello.com/c/5kfDcrWQ/6-desenvolvimento-trello-padrao-cti"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Criação de backlog",
+        "descricao": "",
+        "lista": "Em andamento",
+        "responsaveis": [
+            "T.Beatriz Queiroz Costa",
+            "Marcel Sant Ana dos Anjos"
+        ],
+        "qtd_responsaveis": 2,
+        "ultima_atividade": "2026-05-08T01:04:42.691Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b6c26cb3fcd3fe57487",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Alta",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b6c26cb3fcd3fe57487",
+                "color": "red",
+                "uses": 5
+            }
+        ],
+        "url": "https://trello.com/c/e4awem2U/5-cria%C3%A7%C3%A3o-de-backlog"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Discovery Api Trello",
+        "descricao": "",
+        "lista": "Concluído",
+        "responsaveis": [
+            "BARBARA DOS ANJOS",
+            "Marcel Sant Ana dos Anjos"
+        ],
+        "qtd_responsaveis": 2,
+        "ultima_atividade": "2026-05-08T23:26:45.660Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [],
+        "url": "https://trello.com/c/G2R1XCm8/3-discovery-api-trello"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Mock De Dados",
+        "descricao": "",
+        "lista": "Concluído",
+        "responsaveis": [
+            "BARBARA DOS ANJOS"
+        ],
+        "qtd_responsaveis": 1,
+        "ultima_atividade": "2026-05-08T23:26:38.751Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b6c26cb3fcd3fe57487",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Alta",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b6c26cb3fcd3fe57487",
+                "color": "red",
+                "uses": 5
+            }
+        ],
+        "url": "https://trello.com/c/5aFLGsna/10-mock-de-dados"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Brainstorm do projeto",
+        "descricao": "",
+        "lista": "Concluído",
+        "responsaveis": [
+            "T.Beatriz Queiroz Costa",
+            "Ana Heliza Leal de Sousa Sampaio",
+            "Marcel Sant Ana dos Anjos"
+        ],
+        "qtd_responsaveis": 3,
+        "ultima_atividade": "2026-05-09T00:37:18.308Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b37c6e8456e17504942",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Médio",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b37c6e8456e17504942",
+                "color": "yellow_dark",
+                "uses": 4
+            }
+        ],
+        "url": "https://trello.com/c/T9t6uakZ/4-brainstorm-do-projeto"
+    },
+    {
+        "projeto": "Projeto CTI",
+        "card": "Criação do Repositório GitHub",
+        "descricao": "",
+        "lista": "Concluído",
+        "responsaveis": [
+            "BARBARA DOS ANJOS"
+        ],
+        "qtd_responsaveis": 1,
+        "ultima_atividade": "2026-05-08T23:26:51.624Z",
+        "prazo": null,
+        "concluido": false,
+        "labels": [
+            {
+                "id": "69fd2b6c26cb3fcd3fe57487",
+                "idBoard": "69fd1a648ced6e351dc9282d",
+                "idOrganization": "6960042200a21d32e19e38cc",
+                "name": "Alta",
+                "nodeId": "ari:cloud:trello::label/workspace/6960042200a21d32e19e38cc/69fd2b6c26cb3fcd3fe57487",
+                "color": "red",
+                "uses": 5
+            }
+        ],
+        "url": "https://trello.com/c/1eXj8zeV/8-cria%C3%A7%C3%A3o-do-reposit%C3%B3rio-github"
+    }
+]
